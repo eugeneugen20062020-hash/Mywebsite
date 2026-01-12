@@ -1,0 +1,62 @@
+ body {
+     font-family: Arial, sans-serif;
+     margin: 0;
+     background-color: #f3f3f3;
+     color: #333;
+ }
+
+ header {
+     background-color: #004080;
+     color: white;
+     padding: 20px 0;
+     text-align: center;
+ }
+
+ nav lu {
+     background-color: #f3f3f3;
+     list-style: none;
+     padding: 0;
+     margin: 10px 0 0 0;
+     display: flex;
+     justify-content: center;
+     gap: 30px;
+ }
+
+ nav a:hover {
+     text-decoration: underline;
+ }
+
+ .intro {
+     text-align: center;
+     padding: 40px 20px;
+     background-color: white;
+ }
+
+ .imagine-centru {
+     text-align: right;
+     margin: 20px 40px 0 0;
+ }
+
+ .imagine-centru img {
+     width: 40%;
+     border-radius: 10px;
+     box-shadow: 0 4px 10px rgba(0, 0, 0, 0, 3);
+ }
+
+ .content {
+     padding: 40px;
+     background-color: #e6f0ff;
+ }
+
+ footer {
+     background-color: #004080;
+     color: white;
+     text-align: center;
+     padding: 15px;
+     margin-top: 30px;
+ }
+
+ .intro p {
+     font-size: 30px;
+     line-height: 1.6;
+ }
